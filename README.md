@@ -6,6 +6,6 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 
 # Pedestrian trajectory prediction method based on graph neural networks.
-![The architecture of the pedestrian trajectory prediction method based on GNNs.]()
+![The architecture of the pedestrian trajectory prediction method based on GNNs.](<img width="1624" alt="Figure 2" src="https://github.com/user-attachments/assets/def5fc2d-af64-4101-a64e-dc99bffcc8c7" />)
 
-<img width="1624" alt="Figure 2" src="https://github.com/user-attachments/assets/def5fc2d-af64-4101-a64e-dc99bffcc8c7" />
+
