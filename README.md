@@ -7,11 +7,11 @@
  <img width="2138" alt="Figure 3" src="https://github.com/user-attachments/assets/7b3ec9ac-8e66-457b-9cfc-dd8d43255847" />
 
 
- # Conventional Graph-based Methods
+ # 1. Conventional Graph-based Methods
 Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is performed through graph convolution or graph attention to model the social relationships between pedestrians, thereby improving the ability to predict future trajectories. According to the graph construction strategy, we further divide conventional graph-based methods into static, frame-wise, and spatio-temporal graph models.
 <img width="1033" alt="Figure 4" src="https://github.com/user-attachments/assets/39273445-14c2-41f9-b2ec-20ef699c8a5a" />
 
- ### Static graph models
+ ### 1.1. Static graph models
 Kosaraju V, Sadeghian A, Martín-Martín R, et al. Social-bigat: Multimodal trajectory forecasting using bicycle-gan and graph attention networks[J]. Advances in neural information processing systems. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)
 
 Chen Y, Liu C, Shi B, et al. Comogcn: Coherent motion aware trajectory prediction with graph representation[J]. arXiv preprint arXiv:2005.00754, 2020. [paper](https://arxiv.org/pdf/2005.00754)
@@ -20,7 +20,7 @@ Li L, Yao J, Wenliang L, et al. Grin: Generative relation and intention network 
 
 Liu C, Chen Y, Liu M, et al. AVGCN: Trajectory prediction using graph convolutional networks guided by human attention[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9560908)
 
- ### Frame-wise graph models
+ ### 1.2. Frame-wise graph models
 Huang Y, Bi H, Li Z, et al. Stgat: Modeling spatial-temporal interactions for human trajectory prediction[C]//Proceedings of the IEEE/CVF international conference on computer vision. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf) [code](https://github.com/huang-xx/STGAT)
 
 Haddad S, Lam S K. Self-growing spatial graph networks for pedestrian trajectory prediction[C]//Proceedings of the IEEE/CVF Winter conference on applications of computer vision. 2020. [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Haddad_Self-Growing_Spatial_Graph_Networks_for_Pedestrian_Trajectory_Prediction_WACV_2020_paper.pdf) 
@@ -39,7 +39,7 @@ Huang L, Zhuang J, Cheng X, et al. STI-GAN: Multimodal pedestrian trajectory pre
 
 Cheng H, Liu M, Chen L, et al. Gatraj: A graph-and attention-based multi-agent trajectory prediction model[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S092427162300268X) [code](https://github.com/mengmengliu1998/GATraj)
 
-  ### Spatiotemporal graph models
+  ### 1.3. Spatiotemporal graph models
 Sun Y, He T, Hu J, et al. Socially-aware graph convolutional network for human trajectory prediction[C]//2019 IEEE 3rd Information Technology, Networking, Electronic and Automation Control Conference (ITNEC). IEEE. [paper](https://ieeexplore.ieee.org/abstract/document/8729387)
 
 Mohamed A, Qian K, Elhoseiny M, et al. Social-stgcnn: A social spatio-temporal graph convolutional neural network for human trajectory prediction[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf) [code](https://github.com/abduallahmohamed/Social-STGCNN)
@@ -92,12 +92,12 @@ Ruan K, Di X. InfoSTGCAN: An Information-Maximizing Spatial-Temporal Graph Convo
 
 Mi J, Zhang X, Zeng H, et al. DERGCN: Dynamic-Evolving graph convolutional networks for human trajectory prediction[J]. Neurocomputing, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223012407)
 
- # Sparse Graph-based Methods
+ # 2. Sparse Graph-based Methods
 Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into uninterpretable and interpretable sparse graph models based on whether the interaction filtering mechanism incorporates interpretable priors.
 <img width="733" alt="Figure 6" src="https://github.com/user-attachments/assets/b1b39e1e-b7db-470c-868a-35a1981bbddf" />
 
 
- ### Uninterpretable sparse graph models
+ ### 2.1. Uninterpretable sparse graph models
 Shi L, Wang L, Long C, et al. SGCN: Sparse graph convolution network for pedestrian trajectory prediction[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf) [code](https://github.com/shuaishiliu/SGCN)
 
 Zhou Y, Wu H, Cheng H, et al. Social graph convolutional LSTM for pedestrian trajectory prediction[J]. IET Intelligent Transport Systems, 2021. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12033)
@@ -105,7 +105,7 @@ Zhou Y, Wu H, Cheng H, et al. Social graph convolutional LSTM for pedestrian tra
 Wu Y, Wang L, Zhou S, et al. Multi-stream representation learning for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389) [code](https://github.com/YuxuanIAIR/MSRL-master)
 
 
- ### Interpretable sparse graph models
+ ### 2.2. Interpretable sparse graph models
 Sun J, Jiang Q, Lu C. Recursive social behavior graph for trajectory prediction[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.pdf) 
 
 Pedestrian Trajectory Prediction Based on Improved Social Spatio-Temporal Graph Convolution Neural Network[C]//Proceedings of the 2022 5th International Conference on Machine Learning and Natural Language Processing. 2022: 63-67. [paper](https://dl.acm.org/doi/abs/10.1145/3578741.3578754)
