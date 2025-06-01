@@ -309,15 +309,15 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 
 
  ## Evaluation Metrics
-1. Average Displacement Error (ADE)
+1. Average Displacement Error (ADE) [paper](https://ieeexplore.ieee.org/abstract/document/5459260)
 
-2. Final Displacement Error (FDE)
+2. Final Displacement Error (FDE) [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01089.x)
 
-3. Kernel Density Estimation (KDE)
+3. Kernel Density Estimation (KDE) [paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Ivanovic_The_Trajectron_Probabilistic_Multi-Agent_Trajectory_Modeling_With_Dynamic_Spatiotemporal_Graphs_ICCV_2019_paper.html)
 
-4. Average Mahalanobis Distance (AMD)
+4. Average Mahalanobis Distance (AMD) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
 
-5. Average Maximum Eigenvalue (AMV)
+5. Average Maximum Eigenvalue (AMV) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
 <img width="374" alt="微信图片_20250601155628" src="https://github.com/user-attachments/assets/7498835a-6804-4e85-bd26-430738724ebe" />
 
 
