@@ -124,9 +124,37 @@ Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution net
 
 
  # Multi-Graph-based Methods
+Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into multi-feature graph models, temporal graph models, cross-spatial-temporal graph models, and scene graph models.
 
 
  ### Multi-feature graph models
+Biswas A, Morris B T. TAGCN: topology-aware graph convolutional network for trajectory prediction[C]//Advances in Visual Computing: 15th International Symposium, ISVC 2020, San Diego, CA, USA, October 5–7, 2020, Proceedings, Part I 15. Springer International Publishing, 2020: 542-553.[paper](https://link.springer.com/chapter/10.1007/978-3-030-64556-4_42) 
+
+Peng Y, Zhang G, Li X, et al. SRGAT: Social relational graph attention network for human trajectory prediction[C]//Neural Information Processing: 28th International Conference, ICONIP 2021, Sanur, Bali, Indonesia, December 8–12, 2021, Proceedings, Part II 28. Springer International Publishing, 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_54)
+
+Su Y, Du J, Li Y, et al. Trajectory forecasting based on prior-aware directed graph convolutional neural network[J]. IEEE Transactions on Intelligent Transportation Systems, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9686621)
+
+Li M, Chen T, Du H. Trajectory prediction of cyclist based on spatial‐temporal multi‐graph network in crowded scenarios[J]. Electronics Letters, 2022, 58(3): 97-99. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12374)
+
+Zhou L, Zhao Y, Yang D, et al. Gchgat: Pedestrian trajectory prediction using group constrained hierarchical graph attention networks[J]. Applied Intelligence, 2022. [paper](https://link.springer.com/article/10.1007/s10489-021-02997-w)
+
+Zhang X, Angeloudis P, Demiris Y. Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction[J]. Pattern Recognition, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0031320323003345)
+
+Zhou H, Yang X, Fan M, et al. Static-dynamic global graph representation for pedestrian trajectory prediction[J]. Knowledge-Based Systems, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005257)
+
+Pi L, Zhang Q, Yang L, et al. Social interaction model enhanced with speculation stage for human trajectory prediction[J]. Robotics and Autonomous Systems, 2023, 161: 104352. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092188902200241X)
+
+Yang Z, Pang C, Zeng X. Trajectory Forecasting Using Graph Convolutional Neural Networks Based on Prior Awareness and Information Fusion[J]. ISPRS International Journal of Geo-Information, 2023. [paper](https://www.mdpi.com/2220-9964/12/2/77)
+
+Du Q, Wang X, Yin S, et al. Social force embedded mixed graph convolutional network for multi-class trajectory prediction[J]. IEEE Transactions on Intelligent Vehicles, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10415371)
+
+Sheng Z, Huang Z, Chen S. Ego‐planning‐guided multi‐graph convolutional network for heterogeneous agent trajectory prediction[J]. Computer‐Aided Civil and Infrastructure Engineering, 2024. [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13301)
+
+Lin X, Zhang Y, Wang S, et al. Multi-scale wavelet transform enhanced graph neural network for pedestrian trajectory prediction[J]. Physica A: Statistical Mechanics and its Applications, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037843712400829X)
+
+Su Z, Huang G, Zhou Z, et al. Improving generative trajectory prediction via collision-free modeling and goal scene reconstruction[J]. Pattern Recognition Letters, 2025, 188: 117-124. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865524003593)
+
+hou D, Gao Y, Li H, et al. Group commonality graph: Multimodal pedestrian trajectory prediction via deep group features[J]. Pattern Recognition Letters, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001114)
 
 
  ### Temporal graph models
