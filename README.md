@@ -280,11 +280,40 @@ Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-
 Lin X, Zhang Y, Wang S, et al. OST-HGCN: Optimized Spatial–Temporal Hypergraph Convolution Network for Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10857960)
 
 
+ ## Public Datasets
+To comprehensively evaluate the accuracy, diversity, and distribution quality of predicted trajectories, researchers have proposed a variety of evaluation metrics.
+1. ETH
+
+2. UCY
+
+3. Stanford Drone Dataset SDD
+
+4. NBA SportVU dataset (NBA)
+
+5. TrajNet++
+
+6. NuScenes
+
+7. Argoverse
+
+8. PIE
+
+9. JAAD
+<img width="380" alt="微信图片_20250601155547" src="https://github.com/user-attachments/assets/5cd07fdc-58f6-419b-8219-f7f9748a2f62" />
 
 
 
+ ## Evaluation Metrics
+1. Average Displacement Error (ADE)
 
+2. Final Displacement Error (FDE)
 
+3. Kernel Density Estimation (KDE)
+
+4. Average Mahalanobis Distance (AMD)
+
+5. Average Maximum Eigenvalue (AMV)
+<img width="374" alt="微信图片_20250601155628" src="https://github.com/user-attachments/assets/7498835a-6804-4e85-bd26-430738724ebe" />
 
 
 
