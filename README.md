@@ -123,11 +123,11 @@ Sun C, Wang B, Leng J, et al. SDAGCN: Sparse Directed Attention Graph Convolutio
 Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution network for pedestrian trajectory prediction[J]. Transportmetrica B: Transport Dynamics, 2024. [paper](https://www.tandfonline.com/doi/abs/10.1080/21680566.2024.2389896) [code](https://github.com/Chenwangxing/IMGCN_master)
 
 
- # Multi-Graph-based Methods
+ # 3. Multi-Graph-based Methods
 Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into multi-feature graph models, temporal graph models, cross-spatial-temporal graph models, and scene graph models.
 
 
- ### Multi-feature graph models
+ ### 3.1. Multi-feature graph models
 Biswas A, Morris B T. TAGCN: topology-aware graph convolutional network for trajectory prediction[C]//Advances in Visual Computing: 15th International Symposium, ISVC 2020, San Diego, CA, USA, October 5–7, 2020, Proceedings, Part I 15. Springer International Publishing, 2020: 542-553.[paper](https://link.springer.com/chapter/10.1007/978-3-030-64556-4_42) 
 
 Peng Y, Zhang G, Li X, et al. SRGAT: Social relational graph attention network for human trajectory prediction[C]//Neural Information Processing: 28th International Conference, ICONIP 2021, Sanur, Bali, Indonesia, December 8–12, 2021, Proceedings, Part II 28. Springer International Publishing, 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_54)
@@ -157,10 +157,34 @@ Su Z, Huang G, Zhou Z, et al. Improving generative trajectory prediction via col
 hou D, Gao Y, Li H, et al. Group commonality graph: Multimodal pedestrian trajectory prediction via deep group features[J]. Pattern Recognition Letters, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001114)
 
 
- ### Temporal graph models
+ ### 3.2. Temporal graph models
+Yu C, Ma X, Ren J, et al. Spatio-temporal graph transformer networks for pedestrian trajectory prediction[C]//Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XII 16. Springer International Publishing, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_30) [paper](https://github.com/cunjunyu/STAR)
+ 
+Zhou H, Ren D, Xia H, et al. Ast-gnn: An attention-based spatio-temporal graph neural network for interaction-aware pedestrian trajectory prediction[J]. Neurocomputing, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100388X)
+
+Liu Z, He L, Yuan L, et al. STAGP: Spatio-Temporal Adaptive Graph Pooling Network for Pedestrian Trajectory Prediction[J]. IEEE Robotics and Automation Letters, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10373049)
+
+Liu Y, Zhang Y, Li K, et al. Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction[C]//2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10421989)
+
+Sang H, Chen W, Wang J, et al. RDGCN: Reasonably dense graph convolution network for pedestrian trajectory prediction[J]. Measurement, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224123002397) 
+
+Zhong X, Yan X, Yang Z, et al. Visual exposes you: pedestrian trajectory prediction meets visual intention[J]. IEEE Transactions on Intelligent Transportation Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10103218)
+
+Li J, Yang L, Chen Y, et al. MFAN: Mixing Feature Attention Network for trajectory prediction[J]. Pattern Recognition, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006957) [code](https://github.com/ME-SJTU/MFAN#mfan)
+
+Chen W, Sang H, Wang J, et al. WTGCN: wavelet transform graph convolution network for pedestrian trajectory prediction[J]. International Journal of Machine Learning and Cybernetics, 2024. [paper](https://link.springer.com/article/10.1007/s13042-024-02258-5)
+
+Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution network for pedestrian trajectory prediction[J]. Transportmetrica B: Transport Dynamics, 2024. [paper](https://www.tandfonline.com/doi/abs/10.1080/21680566.2024.2389896) [code](https://github.com/Chenwangxing/IMGCN_master)
+
+Gao L, Gu X, Chen F, et al. Sparse Transformer Network with Spatial-Temporal Graph for Pedestrian Trajectory Pre-diction[J]. IEEE Access, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10634110)
+
+Yu C, Wang M. Pedestrian Trajectory Prediction Based on Multi-head Self-attention and Sparse Graph Convolution[C]//2024 4th International Conference on Neural Networks, Information and Communication (NNICE). IEEE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10498338)
+
+Chen W, Sang H, Wang J, et al. IGGCN: Individual-guided graph convolution network for pedestrian trajectory prediction[J]. Digital Signal Processing, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S105120042400486X)
 
 
-  ### Cross-spatial-temporal graph models
+
+ ### 3.3. Cross-spatial-temporal graph models
 
 
-   ### Scene graph models
+ ### 3.4. Scene graph models
