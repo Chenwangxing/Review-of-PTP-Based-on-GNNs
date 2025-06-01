@@ -130,6 +130,7 @@ Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution net
 
  ## 3. Multi-Graph-based Methods
 Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into **multi-feature graph models**, **temporal graph models**, **cross-spatial-temporal graph models**, and **scene graph models**.
+
 <img width="459" alt="Figure 7" src="https://github.com/user-attachments/assets/797f2d36-8ac9-4173-b6aa-afe68b55d975" />
 
 
