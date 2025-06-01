@@ -185,6 +185,26 @@ Chen W, Sang H, Wang J, et al. IGGCN: Individual-guided graph convolution networ
 
 
  ### 3.3. Cross-spatial-temporal graph models
+Wu Y, Wang L, Zhou S, et al. Multi-stream representation learning for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389) [code](https://github.com/YuxuanIAIR/MSRL-master)
+
+Chen W, Sang H, Wang J, et al. DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10843981) [code](https://github.com/Chenwangxing/DSTIGCN_Master)
+
+Li R, Qiao T, Katsigiannis S, et al. Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10876405)
 
 
  ### 3.4. Scene graph models
+Cao D, Li J, Ma H, et al. Spectral temporal graph neural network for trajectory prediction[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9561461)
+
+Liu J, Li G, Mao X, et al. SparseGTN: Human Trajectory Forecasting with Sparsely Represented Scene and Incomplete Trajectories[C]//2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2024: 13009-13016. [paper](https://ieeexplore.ieee.org/abstract/document/10801803)
+
+Zhu P, Zhao S, Deng H, et al. Attentive Radiate Graph for Pedestrian Trajectory Prediction in Disconnected Manifolds[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10962257)
+
+
+
+
+
+
+
+
+
+
