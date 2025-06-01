@@ -40,8 +40,57 @@ Huang L, Zhuang J, Cheng X, et al. STI-GAN: Multimodal pedestrian trajectory pre
 Cheng H, Liu M, Chen L, et al. Gatraj: A graph-and attention-based multi-agent trajectory prediction model[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S092427162300268X) [code](https://github.com/mengmengliu1998/GATraj)
 
   ### Spatiotemporal graph models
+Sun Y, He T, Hu J, et al. Socially-aware graph convolutional network for human trajectory prediction[C]//2019 IEEE 3rd Information Technology, Networking, Electronic and Automation Control Conference (ITNEC). IEEE. [paper](https://ieeexplore.ieee.org/abstract/document/8729387)
 
+Mohamed A, Qian K, Elhoseiny M, et al. Social-stgcnn: A social spatio-temporal graph convolutional neural network for human trajectory prediction[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf) [code](https://github.com/abduallahmohamed/Social-STGCNN)
 
+Xue H, Huynh D Q, Reynolds M. Take a nap: Non-autoregressive prediction for pedestrian trajectories[C]//International Conference on Neural Information Processing. Cham: Springer International Publishing, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_46) 
+
+Wu Y, Chen G, Li Z, et al. HSTA: A hierarchical spatio-temporal attention model for trajectory prediction[J]. IEEE Transactions on Vehicular Technology, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9548801)
+
+Li K, Eiffert S, Shan M, et al. Attentional-GCNN: Adaptive pedestrian trajectory prediction towards generic autonomous vehicle use cases[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021: 14241-14247. [paper](https://ieeexplore.ieee.org/abstract/document/9561480)
+
+Wang C, Cai S, Tan G. Graphtcn: Spatio-temporal interaction modeling for human trajectory prediction[C]//Proceedings of the IEEE/CVF winter conference on applications of computer vision. 2021. [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_GraphTCN_Spatio-Temporal_Interaction_Modeling_for_Human_Trajectory_Prediction_WACV_2021_paper.pdf)
+
+Zhao Z, Liu C. STUGCN: A social spatio-temporal unifying graph convolutional network for trajectory prediction[C]//2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE). IEEE, 2021: 546-550. [paper](https://ieeexplore.ieee.org/abstract/document/9501325)
+
+Lian J, Yu F, Li L, et al. Causal temporal–spatial pedestrian trajectory prediction with goal point estimation and contextual interaction[J]. IEEE Transactions on Intelligent Transportation Systems, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9896809)
+
+Luo T, Shang H, Li Z, et al. Multi-Dimensional Spatial-Temporal Fusion for Pedestrian Trajectory Prediction[C]//2022 2nd International Conference on Networking Systems of AI (INSAI). IEEE, 2022: 170-174. [paper](https://ieeexplore.ieee.org/abstract/document/10175121)
+
+Tang H, Wei P, Li J, et al. Evostgat: Evolving spatiotemporal graph attention networks for pedestrian trajectory prediction[J]. Neurocomputing, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003460)
+
+Li Y, Cui J, Zhao Z, et al. ST-AGNN: Spatial-Temporal Attention Graph Neural Network for Pedestrian Trajectory Prediction[M]//Applied Mathematics, Modeling and Computer Simulation. IOS Press, 2022: 268-275. [paper](https://ebooks.iospress.nl/doi/10.3233/ATDE221042)
+
+Yang J, Sun X, Wang R G, et al. PTPGC: Pedestrian trajectory prediction by graph attention network with ConvLSTM[J]. Robotics and Autonomous Systems, 2022. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889021002165)
+
+Zhu W, Liu Y, Wang P, et al. Tri-HGNN: Learning triple policies fused hierarchical graph neural networks for pedestrian trajectory prediction[J]. Pattern Recognition, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004703)
+
+Wang R, Hu Z, Song X, et al. Trajectory distribution aware graph convolutional network for trajectory prediction considering spatio-temporal interactions and scene information[J]. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10309163)
+
+Lv P, Wang W, Wang Y, et al. SSAGCN: social soft attention graph convolution network for pedestrian trajectory prediction[J]. IEEE transactions on neural networks and learning systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10063206) [code](https://github.com/WW-Tong/ssagcn_for_path_prediction)
+
+Yang C, Pei Z. Long-short term spatio-temporal aggregation for trajectory prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10018105)
+
+Zhi C Y, Sun H J, Xu T. Adaptive trajectory prediction without catastrophic forgetting[J]. The Journal of Supercomputing, 2023. [paper](https://link.springer.com/article/10.1007/s11227-023-05241-z) 
+
+Lian J, Ren W, Li L, et al. Ptp-stgcn: pedestrian trajectory prediction based on a spatio-temporal graph convolutional neural network[J]. Applied Intelligence, 2023. [paper](https://link.springer.com/article/10.1007/s10489-022-03524-1)
+
+Bhujel N, Yau W Y. Disentangling crowd interactions for pedestrians trajectory prediction[J]. IEEE Robotics and Automation Letters, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10083225)
+
+Chen X, Luo F, Zhao F, et al. Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction[J]. IEEE Robotics and Automation Letters, 2023, 9(1): 57-64. [paper](https://ieeexplore.ieee.org/abstract/document/10313963)
+
+Liu Y, Li B, Wang X, et al. Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction[J]. IEEE Transactions on Knowledge and Data Engineering, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10504962)
+
+Yang B, Fan F, Ni R, et al. A multi-task learning network with a collision-aware graph transformer for traffic-agents trajectory prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10379537) 
+
+Khel M H K, Greaney P, McAfee M, et al. GSTGM: Graph, spatial–temporal attention and generative based model for pedestrian multi-path prediction[J]. Image and Vision Computing, 2024: 105245. [paper](https://www.sciencedirect.com/science/article/pii/S0262885624003500)
+
+Yang X, Fan J, Wang X, et al. CSGAT-Net: a conditional pedestrian trajectory prediction network based on scene semantic maps and spatiotemporal graph attention[J]. Neural Computing and Applications, 2024: 1-15. [paper](https://link.springer.com/article/10.1007/s00521-024-09784-x)
+
+Ruan K, Di X. InfoSTGCAN: An Information-Maximizing Spatial-Temporal Graph Convolutional Attention Network for Heterogeneous Human Trajectory Prediction[J]. Computers, 2024, 13(6): 151. [paper](https://www.mdpi.com/2073-431X/13/6/151)
+
+Mi J, Zhang X, Zeng H, et al. DERGCN: Dynamic-Evolving graph convolutional networks for human trajectory prediction[J]. Neurocomputing, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223012407)
 
  # Sparse Graph-based Methods
 
