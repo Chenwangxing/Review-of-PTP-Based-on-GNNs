@@ -15,3 +15,12 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
  # Conventional Graph-based Methods
 Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is performed through graph convolution or graph attention to model the social relationships between pedestrians, thereby improving the ability to predict future trajectories. According to the graph construction strategy, we further divide conventional graph-based methods into static, frame-wise, and spatio-temporal graph models.
+<img width="1033" alt="Figure 4" src="https://github.com/user-attachments/assets/39273445-14c2-41f9-b2ec-20ef699c8a5a" />
+
+ ## Static graph models
+
+
+ ## Frame-wise graph models
+
+
+  ## Spatiotemporal graph models
