@@ -1,6 +1,6 @@
 
 # Pedestrian trajectory prediction method based on graph neural networks.
-GNN-based pedestrian trajectory prediction methods typically adopt an encoder-decoder architecture. The encoder constructs interaction graphs based on observed trajectory data, followed by the application of graph convolution or its variants to extract spatial-temporal features of pedestrians. The decoder then generates future trajectories based on the extracted interaction features.
+GNN-based pedestrian trajectory prediction methods typically adopt an encoder-decoder architecture. The encoder constructs interaction graphs based on observed trajectory data, followed by the application of graph convolution or its variants to extract spatial-temporal features of pedestrians. The decoder then generates future trajectories based on the extracted interaction features. To model different types of interactions, researchers employ various graph structures to represent social, spatiotemporal, or heterogeneous relationships among agents.
 <img width="1624" alt="Figure 2" src="https://github.com/user-attachments/assets/def5fc2d-af64-4101-a64e-dc99bffcc8c7" />
 
 
