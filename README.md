@@ -18,3 +18,28 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 
 
   ### Spatiotemporal graph models
+
+
+
+ # Sparse Graph-based Methods
+
+
+ ### Uninterpretable sparse graph models
+
+
+ ### Interpretable sparse graph models
+
+
+ # Multi-Graph-based Methods
+
+
+ ### Multi-feature graph models
+
+
+ ### Temporal graph models
+
+
+  ### Cross-spatial-temporal graph models
+
+
+   ### Scene graph models
