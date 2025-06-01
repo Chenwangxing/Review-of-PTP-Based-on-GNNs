@@ -200,6 +200,82 @@ Liu J, Li G, Mao X, et al. SparseGTN: Human Trajectory Forecasting with Sparsely
 Zhu P, Zhao S, Deng H, et al. Attentive Radiate Graph for Pedestrian Trajectory Prediction in Disconnected Manifolds[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10962257)
 
 
+ # 4. Heterogeneous graph-based methods
+C
+
+ ### 4.1. Scene heterogeneous graph models
+Li J, Yang F, Tomizuka M, et al. Evolvegraph: Multi-agent trajectory prediction with dynamic relational reasoning[J]. Advances in neural information processing systems, 2020, 33: 19783-19794. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/e4d8163c7a068b65a64c89bd745ec360-Paper.pdf)
+
+Zou X, Sun B, Zhao D, et al. Multi-modal pedestrian trajectory prediction for edge agents based on spatial-temporal graph[J]. IEEE Access, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9082663) 
+
+Li J, Ma H, Zhang Z, et al. Spatio-temporal graph dual-attention network for multi-agent prediction and tracking[J]. IEEE Transactions on Intelligent Transportation Systems, 2021, 23(8): 10556-10569. [paper](https://ieeexplore.ieee.org/abstract/document/9491972)
+
+Zhao D, Li T, Zou X, et al. Multimodal Pedestrian Trajectory Prediction Based on Relative Interactive Spatial-Temporal Graph[J]. IEEE Access, 2022, 10: 88707-88718. [paper](https://ieeexplore.ieee.org/abstract/document/9862988)
+
+
+ ### 4.2. Multi-type agent heterogeneous graph models
+Eiffert S, Li K, Shan M, et al. Probabilistic crowd GAN: Multimodal pedestrian trajectory prediction using a graph vehicle-pedestrian attention network[J]. IEEE Robotics and Automation Letters, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9123560) 
+
+Zheng F, Wang L, Zhou S, et al. Unlimited neighborhood interaction for heterogeneous trajectory prediction[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Unlimited_Neighborhood_Interaction_for_Heterogeneous_Trajectory_Prediction_ICCV_2021_paper.pdf)
+
+Alghodhaifi H, Lakshmanan S. Holistic Spatio-Temporal Graph Attention for Trajectory Prediction in Vehicle–Pedestrian Interactions[J]. Sensors, 2023, 23(17): 7361. [paper](https://www.mdpi.com/1424-8220/23/17/7361)
+
+Chen X, Zhang H, Hu Y, et al. VNAGT: Variational non-autoregressive graph transformer network for multi-agent trajectory prediction[J]. IEEE Transactions on Vehicular Technology, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10121688)
+
+Zhou X, Chen X, Yang J. Edge-Enhanced Heterogeneous Graph Transformer With Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10807107)
+
+Sheng Z, Huang Z, Chen S. Ego‐planning‐guided multi‐graph convolutional network for heterogeneous agent trajectory prediction[J]. Computer‐Aided Civil and Infrastructure Engineering, 2024. [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13301)
+
+
+Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-modal future interaction for multi-agent trajectory prediction[J]. Engineering Applications of Artificial Intelligence, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001253) [code](https://github.com/zhou00NJUST/HHT-CFI)
+
+
+Li R, Katsigiannis S, Kim T K, et al. BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction[J]. IEEE Transactions on Neural Networks and Learning Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10937142) [code](https://github.com/Carrotsniper/BP-SGCN)
+
+  ### 4.3. Comprehensive heterogeneous graph models
+Dong B, Liu H, Bai Y, et al. Multi-modal trajectory prediction for autonomous driving with semantic map and dynamic graph attention network[J]. arXiv preprint arXiv:2103.16273, 2021. [paper](https://arxiv.org/pdf/2103.16273)
+
+Li J, Ma H, Zhang Z, et al. Spatio-temporal graph dual-attention network for multi-agent prediction and tracking[J]. IEEE Transactions on Intelligent Transportation Systems, 2021, 23(8): 10556-10569. [paper](https://ieeexplore.ieee.org/abstract/document/9491972)
+
+Wang X, Yang X, Zhou D. Goal-CurveNet: A pedestrian trajectory prediction network using heterogeneous graph attention goal prediction and curve fitting[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108323. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624004810)
+
+
+ # 5. High-order graph-based methods
+C
+
+ ### 5.1. High-order graph models
+Bae I, Jeon H G. Disentangled multi-relational graph convolutional network for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16174)
+ 
+Fang Y, Jin Z, Cui Z, et al. Modeling human–human interaction with attention-based high-order GCN for trajectory prediction[J]. The Visual Computer, 2022. [paper](https://link.springer.com/article/10.1007/s00371-021-02109-2)
+
+Kim S, Chi H, Lim H, et al. Higher-order Relational Reasoning for Pedestrian Trajectory Prediction[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.pdf)
+
+Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10948459) [code](https://github.com/Chenwangxing/PCHGCN-Master)
+
+
+
+ ### 5.2. Hypergraph models
+
+Xu C, Li M, Ni Z, et al. Groupnet: Multiscale hypergraph neural networks for trajectory prediction with relational reasoning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupNet_Multiscale_Hypergraph_Neural_Networks_for_Trajectory_Prediction_With_Relational_CVPR_2022_paper.pdf) [code](https://github.com/MediaBrain-SJTU/GroupNet)
+
+Xu C, Wei Y, Tang B, et al. Dynamic-group-aware networks for multi-agent trajectory prediction with relational reasoning[J]. Neural Networks, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006299)
+
+Lee S, Lee J, Yu Y, et al. MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction[J]. arXiv preprint arXiv, 2024. [paper](https://arxiv.org/pdf/2407.21635) [code](https://github.com/gist-ailab/MART)
+
+Lin W, Zeng X, Pang C, et al. DyHGDAT: Dynamic Hypergraph Dual Attention Network for multi-agent trajectory prediction[C]//2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10609870)
+
+Wang W, Mao L, Yang B, et al. Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning[J]. arXiv, 2024. [paper](https://arxiv.org/pdf/2401.06344)
+
+Chib P S, Nath A, Kabra P, et al. Ms-tip: Imputation aware pedestrian trajectory prediction[C]//International Conference on Machine Learning. PMLR, 2024: 8389-8402. [paper](https://openreview.net/forum?id=s4Hy0L4mml)
+
+Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-modal future interaction for multi-agent trajectory prediction[J]. Engineering Applications of Artificial Intelligence, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001253) [code](https://github.com/zhou00NJUST/HHT-CFI)
+
+Lin X, Zhang Y, Wang S, et al. OST-HGCN: Optimized Spatial–Temporal Hypergraph Convolution Network for Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10857960)
+
+
+
+
+
 
 
 
