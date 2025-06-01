@@ -287,7 +287,7 @@ Lin X, Zhang Y, Wang S, et al. OST-HGCN: Optimized Spatial–Temporal Hypergraph
 
  ## Public Datasets
 To comprehensively evaluate the accuracy, diversity, and distribution quality of predicted trajectories, researchers have proposed a variety of evaluation metrics.
-1. UCY [dataset]()
+1. UCY [dataset](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
 
 2. ETH [dataset](https://icu.ee.ethz.ch/research/datsets.html)
 
