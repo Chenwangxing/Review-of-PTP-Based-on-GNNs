@@ -17,7 +17,7 @@ In addition, we present the timeline of various GNN-based trajectory prediction 
  ## 1. Conventional Graph-based Methods
 Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **static graph models**, **frame-wise graph models**, and **spatio-temporal graph models**.
 
- <img width="1033" alt="Figure 4" src="https://github.com/user-attachments/assets/53536bbb-15d2-4b36-ada4-d8dcb9a95408" />
+ <img width="1000" alt="Figure 4" src="https://github.com/user-attachments/assets/53536bbb-15d2-4b36-ada4-d8dcb9a95408" />
 
 
  ### 1.1. Static graph models
@@ -103,7 +103,7 @@ Mi J, Zhang X, Zeng H, et al. DERGCN: Dynamic-Evolving graph convolutional netwo
 
  ## 2. Sparse Graph-based Methods
 Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into **uninterpretable sparse graph models** and **interpretable sparse graph models** based on whether the interaction filtering mechanism incorporates interpretable priors.
-<img width="733" alt="Figure 6" src="https://github.com/user-attachments/assets/b1b39e1e-b7db-470c-868a-35a1981bbddf" />
+<img width="1000" alt="Figure 6" src="https://github.com/user-attachments/assets/b1b39e1e-b7db-470c-868a-35a1981bbddf" />
 
 
  ### 2.1. Uninterpretable sparse graph models
@@ -133,7 +133,7 @@ Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution net
  ## 3. Multi-Graph-based Methods
 Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into **multi-feature graph models**, **temporal graph models**, **cross-spatial-temporal graph models**, and **scene graph models**.
 
-<img width="459" alt="Figure 7" src="https://github.com/user-attachments/assets/797f2d36-8ac9-4173-b6aa-afe68b55d975" />
+<img width="1000" alt="Figure 7" src="https://github.com/user-attachments/assets/797f2d36-8ac9-4173-b6aa-afe68b55d975" />
 
 
  ### 3.1. Multi-feature graph models
@@ -211,7 +211,7 @@ Zhu P, Zhao S, Deng H, et al. Attentive Radiate Graph for Pedestrian Trajectory 
 
  ## 4. Heterogeneous graph-based methods
 Heterogeneous graph-based methods incorporate multiple types of nodes (pedestrians, obstacles, vehicles) and edges (representing different kinds of relationships) into a unified heterogeneous graph. These methods support multimodal information fusion and heterogeneous interaction modeling. We further divide these methods into three categories based on the source of heterogeneity: **scene heterogeneous graph models**, **multi-agent type heterogeneous graph models**, and **comprehensive heterogeneous graph models**.
-<img width="751" alt="Figure 10" src="https://github.com/user-attachments/assets/50c91354-c6b9-479d-bf71-e51c7c572a04" />
+<img width="1000" alt="Figure 10" src="https://github.com/user-attachments/assets/50c91354-c6b9-479d-bf71-e51c7c572a04" />
 
 
  ### 4.1. Scene heterogeneous graph models
@@ -253,7 +253,7 @@ Wang X, Yang X, Zhou D. Goal-CurveNet: A pedestrian trajectory prediction networ
 
  ## 5. High-order graph-based methods
 High-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and high-order interactions. High-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of high-order relationships, we further divide high-order graph-based methods into **high-order graph models** and **hypergraph models**.
-<img width="738" alt="Figure 11" src="https://github.com/user-attachments/assets/11f308b0-d829-4ce6-a2b8-7ce6f69d1e0a" />
+<img width="1000" alt="Figure 11" src="https://github.com/user-attachments/assets/11f308b0-d829-4ce6-a2b8-7ce6f69d1e0a" />
 
 
 
@@ -306,7 +306,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 8. PIE [dataset](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
 
 9. JAAD [dataset](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
-<img width="380" alt="微信图片_20250601155547" src="https://github.com/user-attachments/assets/5cd07fdc-58f6-419b-8219-f7f9748a2f62" />
+<img width="800" alt="微信图片_20250601155547" src="https://github.com/user-attachments/assets/5cd07fdc-58f6-419b-8219-f7f9748a2f62" />
 
 
 
@@ -320,7 +320,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 4. Average Mahalanobis Distance (AMD) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
 
 5. Average Maximum Eigenvalue (AMV) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
-<img width="374" alt="微信图片_20250601155628" src="https://github.com/user-attachments/assets/7498835a-6804-4e85-bd26-430738724ebe" />
+<img width="800" alt="微信图片_20250601155628" src="https://github.com/user-attachments/assets/7498835a-6804-4e85-bd26-430738724ebe" />
 
 
 
