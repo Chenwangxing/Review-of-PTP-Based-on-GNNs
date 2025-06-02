@@ -312,7 +312,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 8. PIE [dataset](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
 
 9. JAAD [dataset](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
-10. 
+   
 <img width="1000" alt="微信图片_20250601155547" src="https://github.com/user-attachments/assets/5cd07fdc-58f6-419b-8219-f7f9748a2f62" />
 
 
@@ -327,7 +327,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 4. Average Mahalanobis Distance (AMD) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
 
 5. Average Maximum Eigenvalue (AMV) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
-6. 
+   
 <img width="1000" alt="微信图片_20250601155628" src="https://github.com/user-attachments/assets/7498835a-6804-4e85-bd26-430738724ebe" />
 
 
