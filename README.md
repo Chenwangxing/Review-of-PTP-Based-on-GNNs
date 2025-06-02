@@ -3,14 +3,17 @@
 
 ## The architecture of the pedestrian trajectory prediction method based on GNNs.
 GNN-based pedestrian trajectory prediction methods typically adopt an encoder-decoder architecture. The encoder constructs interaction graphs based on observed trajectory data, followed by the application of graph convolution or its variants to extract spatial-temporal features of pedestrians. The decoder then generates future trajectories based on the extracted interaction features. To model different types of interactions, researchers employ various graph structures to represent social, spatiotemporal, or heterogeneous relationships among agents.
+
 <img width="2000" alt="Figure 2" src="https://github.com/user-attachments/assets/def5fc2d-af64-4101-a64e-dc99bffcc8c7">
 
 
  ## Taxonomy of Trajectory Prediction Methods based on GNNs
  According to the differences in graph construction strategies and interaction modeling paradigms, we categorize existing methods into five types：**1. Conventional graph-based methods**；**2. Sparse graph-based methods**；**3. Multi-graph-based methods**；**4. Heterogeneous graph-based methods**；**5. High-order graph-based methods**.
+ 
  <img width="1500" alt="Figure 3" src="https://github.com/user-attachments/assets/ff38bf2f-354d-4a08-964c-214bccb88017" />
  
 In addition, we present the timeline of various GNN-based trajectory prediction methods along with some representative methods.
+
 <img width="2000" alt="1发展时间图" src="https://github.com/user-attachments/assets/bf7bf485-808a-4473-86c4-6dbc7544e049" />
 
 
@@ -103,6 +106,7 @@ Mi J, Zhang X, Zeng H, et al. DERGCN: Dynamic-Evolving graph convolutional netwo
 
  ## 2. Sparse Graph-based Methods
 Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into **uninterpretable sparse graph models** and **interpretable sparse graph models** based on whether the interaction filtering mechanism incorporates interpretable priors.
+
 <img width="1000" alt="Figure 6" src="https://github.com/user-attachments/assets/b1b39e1e-b7db-470c-868a-35a1981bbddf" />
 
 
@@ -211,6 +215,7 @@ Zhu P, Zhao S, Deng H, et al. Attentive Radiate Graph for Pedestrian Trajectory 
 
  ## 4. Heterogeneous graph-based methods
 Heterogeneous graph-based methods incorporate multiple types of nodes (pedestrians, obstacles, vehicles) and edges (representing different kinds of relationships) into a unified heterogeneous graph. These methods support multimodal information fusion and heterogeneous interaction modeling. We further divide these methods into three categories based on the source of heterogeneity: **scene heterogeneous graph models**, **multi-agent type heterogeneous graph models**, and **comprehensive heterogeneous graph models**.
+
 <img width="1000" alt="Figure 10" src="https://github.com/user-attachments/assets/50c91354-c6b9-479d-bf71-e51c7c572a04" />
 
 
@@ -253,6 +258,7 @@ Wang X, Yang X, Zhou D. Goal-CurveNet: A pedestrian trajectory prediction networ
 
  ## 5. High-order graph-based methods
 High-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and high-order interactions. High-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of high-order relationships, we further divide high-order graph-based methods into **high-order graph models** and **hypergraph models**.
+
 <img width="1000" alt="Figure 11" src="https://github.com/user-attachments/assets/11f308b0-d829-4ce6-a2b8-7ce6f69d1e0a" />
 
 
@@ -306,6 +312,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 8. PIE [dataset](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
 
 9. JAAD [dataset](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
+10. 
 <img width="1000" alt="微信图片_20250601155547" src="https://github.com/user-attachments/assets/5cd07fdc-58f6-419b-8219-f7f9748a2f62" />
 
 
@@ -320,6 +327,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 4. Average Mahalanobis Distance (AMD) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
 
 5. Average Maximum Eigenvalue (AMV) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
+6. 
 <img width="1000" alt="微信图片_20250601155628" src="https://github.com/user-attachments/assets/7498835a-6804-4e85-bd26-430738724ebe" />
 
 
