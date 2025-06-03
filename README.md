@@ -260,7 +260,7 @@ Wang X, Yang X, Zhou D. Goal-CurveNet: A pedestrian trajectory prediction networ
  ## 5. High-order graph-based methods
 High-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and high-order interactions. High-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of high-order relationships, we further divide high-order graph-based methods into **high-order graph models** and **hypergraph models**.
 
-<img width="1000" alt="Figure 11" src="https://github.com/user-attachments/assets/11f308b0-d829-4ce6-a2b8-7ce6f69d1e0a" />
+<img width="1000" alt="Figure 11" src="https://github.com/user-attachments/assets/340b8e28-c8fa-444c-bc20-d5552988a313" />
 
 
 
