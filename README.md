@@ -14,7 +14,7 @@ GNN-based pedestrian trajectory prediction methods typically adopt an encoder-de
  
 In addition, we present the timeline of various GNN-based trajectory prediction methods along with some representative methods.
 
-<img width="2000" alt="1发展时间图" src="https://github.com/user-attachments/assets/bf7bf485-808a-4473-86c4-6dbc7544e049" />
+<img width="2000" alt="1发展时间图" src="https://github.com/user-attachments/assets/d986cecb-831a-4c32-b01d-2244318efab9" />
 
 
  ## 1. Conventional Graph-based Methods
