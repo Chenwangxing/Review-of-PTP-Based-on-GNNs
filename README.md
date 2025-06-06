@@ -230,6 +230,8 @@ Li J, Ma H, Zhang Z, et al. Spatio-temporal graph dual-attention network for mul
 
 Zhao D, Li T, Zou X, et al. Multimodal Pedestrian Trajectory Prediction Based on Relative Interactive Spatial-Temporal Graph[J]. IEEE Access, 2022, 10: 88707-88718. [paper](https://ieeexplore.ieee.org/abstract/document/9862988)
 
+Yang X, Bingxian L, Xiangcheng W. SGAMTE-Net: A pedestrian trajectory prediction network based on spatiotemporal graph attention and multimodal trajectory endpoints[J]. Applied Intelligence, 2023, 53(24): 31165-31180. [paper](https://link.springer.com/article/10.1007/s10489-023-05132-z)
+
 
  ### 4.2. Multi-type agent heterogeneous graph models
 Eiffert S, Li K, Shan M, et al. Probabilistic crowd GAN: Multimodal pedestrian trajectory prediction using a graph vehicle-pedestrian attention network[J]. IEEE Robotics and Automation Letters, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9123560) 
