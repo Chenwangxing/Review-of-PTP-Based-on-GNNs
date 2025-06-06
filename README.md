@@ -174,7 +174,7 @@ hou D, Gao Y, Li H, et al. Group commonality graph: Multimodal pedestrian trajec
 
 
  ### 3.2. Temporal graph models
-Yu C, Ma X, Ren J, et al. Spatio-temporal graph transformer networks for pedestrian trajectory prediction[C]//Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XII 16. Springer International Publishing, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_30) [paper](https://github.com/cunjunyu/STAR)
+Yu C, Ma X, Ren J, et al. Spatio-temporal graph transformer networks for pedestrian trajectory prediction[C]//Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XII 16. Springer International Publishing, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_30) [code](https://github.com/cunjunyu/STAR)
  
 Zhou H, Ren D, Xia H, et al. Ast-gnn: An attention-based spatio-temporal graph neural network for interaction-aware pedestrian trajectory prediction[J]. Neurocomputing, 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100388X)
 
