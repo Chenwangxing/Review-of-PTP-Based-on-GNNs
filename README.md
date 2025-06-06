@@ -152,6 +152,8 @@ Li M, Chen T, Du H. Trajectory prediction of cyclist based on spatial‐temporal
 
 Zhou L, Zhao Y, Yang D, et al. Gchgat: Pedestrian trajectory prediction using group constrained hierarchical graph attention networks[J]. Applied Intelligence, 2022. [paper](https://link.springer.com/article/10.1007/s10489-021-02997-w)
 
+Bae I, Park J H, Jeon H G. Learning pedestrian group representations for multi-modal trajectory prediction[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022: 270-289. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_16) [code](https://github.com/inhwanbae/GPGraph)
+
 Zhang X, Angeloudis P, Demiris Y. Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction[J]. Pattern Recognition, 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0031320323003345)
 
 Zhou H, Yang X, Fan M, et al. Static-dynamic global graph representation for pedestrian trajectory prediction[J]. Knowledge-Based Systems, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005257)
