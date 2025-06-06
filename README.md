@@ -197,7 +197,6 @@ Yu C, Wang M. Pedestrian Trajectory Prediction Based on Multi-head Self-attentio
 Chen W, Sang H, Wang J, et al. IGGCN: Individual-guided graph convolution network for pedestrian trajectory prediction[J]. Digital Signal Processing, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S105120042400486X)
 
 
-
  ### 3.3. Cross-spatial-temporal graph models
 Wu Y, Wang L, Zhou S, et al. Multi-stream representation learning for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389) [code](https://github.com/YuxuanIAIR/MSRL-master)
 
@@ -269,6 +268,8 @@ Bae I, Jeon H G. Disentangled multi-relational graph convolutional network for p
  
 Fang Y, Jin Z, Cui Z, et al. Modeling human–human interaction with attention-based high-order GCN for trajectory prediction[J]. The Visual Computer, 2022. [paper](https://link.springer.com/article/10.1007/s00371-021-02109-2)
 
+Wang K, Zou H. Social‐ATPGNN: Prediction of multi‐modal pedestrian trajectory of non‐homogeneous social interaction[J]. IET Computer Vision, 2024, 18(7): 907-921. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/cvi2.12286)
+
 Kim S, Chi H, Lim H, et al. Higher-order Relational Reasoning for Pedestrian Trajectory Prediction[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.pdf)
 
 Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10948459) [code](https://github.com/Chenwangxing/PCHGCN-Master)
@@ -292,6 +293,9 @@ Chib P S, Nath A, Kabra P, et al. Ms-tip: Imputation aware pedestrian trajectory
 Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-modal future interaction for multi-agent trajectory prediction[J]. Engineering Applications of Artificial Intelligence, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001253) [code](https://github.com/zhou00NJUST/HHT-CFI)
 
 Lin X, Zhang Y, Wang S, et al. OST-HGCN: Optimized Spatial–Temporal Hypergraph Convolution Network for Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10857960)
+
+Hu Y, Chen X, Zhou Y, et al. A hypergraph-based dual-path multi-agent trajectory prediction model with topology inferring[J]. Engineering Applications of Artificial Intelligence, 2025, 152: 110799. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007997)
+
 
 
  ## Public Datasets
