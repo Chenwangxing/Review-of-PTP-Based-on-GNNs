@@ -252,6 +252,9 @@ Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-
 
 Li R, Katsigiannis S, Kim T K, et al. BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction[J]. IEEE Transactions on Neural Networks and Learning Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10937142) [code](https://github.com/Carrotsniper/BP-SGCN)
 
+Ning N, Tian S, Li H, et al. Heterogeneous agents trajectory prediction with dynamic interaction relational reasoning[J]. Neurocomputing, 2025: 130543. [paper](https://www.sciencedirect.com/science/article/pii/S0925231225012159)
+
+
   ### 4.3. Comprehensive heterogeneous graph models
 Dong B, Liu H, Bai Y, et al. Multi-modal trajectory prediction for autonomous driving with semantic map and dynamic graph attention network[J]. arXiv preprint arXiv:2103.16273, 2021. [paper](https://arxiv.org/pdf/2103.16273)
 
