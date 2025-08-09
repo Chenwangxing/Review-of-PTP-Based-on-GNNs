@@ -6,7 +6,6 @@ GNN-based pedestrian trajectory prediction methods typically adopt an encoder-de
 
 <img width="2000" alt="Figure 2" src="https://github.com/user-attachments/assets/0be318a6-5771-4d03-9d9b-d080ad8f8e26">
 
-![Figure 2 - 2](https://github.com/user-attachments/assets/0be318a6-5771-4d03-9d9b-d080ad8f8e26)
 
 
 
