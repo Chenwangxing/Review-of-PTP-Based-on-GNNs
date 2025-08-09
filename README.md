@@ -11,13 +11,13 @@ GNN-based pedestrian trajectory prediction methods typically adopt an encoder-de
 
  ## Taxonomy of Trajectory Prediction Methods based on GNNs
  According to the differences in graph construction strategies and interaction modeling paradigms, we categorize existing methods into five types：**1. Conventional graph-based methods**；**2. Sparse graph-based methods**；**3. Multi-graph-based methods**；**4. Heterogeneous graph-based methods**；**5. Higher-order graph-based methods**.
- 
-<img width="1500" alt="Figure 3" src="https://github.com/user-attachments/assets/60a1aa74-b318-4082-9caa-5fa6380939eb" />
+
+<img width="1500" height="1357" alt="Figure 3" src="https://github.com/user-attachments/assets/46f4828a-b708-44ac-9308-b11869d714b1" />
 
  
 In addition, we present the timeline of various GNN-based trajectory prediction methods along with some representative methods.
 
-<img width="2000" alt="1发展时间图" src="https://github.com/user-attachments/assets/d986cecb-831a-4c32-b01d-2244318efab9" />
+<img width="2000" height="195" alt="1发展时间图" src="https://github.com/user-attachments/assets/aaf81d10-9889-4481-9e41-9f29aac018d9" />
 
 
  ## 1. Conventional Graph-based Methods
