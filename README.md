@@ -25,9 +25,9 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 
 
  ### 1.1. Static graph models
-Kosaraju V, Sadeghian A, Martín-Martín R, et al. Social-bigat: Multimodal trajectory forecasting using bicycle-gan and graph attention networks[J]. Advances in neural information processing systems. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)
+- Kosaraju V, Sadeghian A, Martín-Martín R, et al. Social-bigat: Multimodal trajectory forecasting using bicycle-gan and graph attention networks[J]. Advances in neural information processing systems. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)
 
-Chen Y, Liu C, Shi B, et al. Comogcn: Coherent motion aware trajectory prediction with graph representation[J]. arXiv preprint arXiv:2005.00754, 2020. [paper](https://arxiv.org/pdf/2005.00754)
+- Chen Y, Liu C, Shi B, et al. Comogcn: Coherent motion aware trajectory prediction with graph representation[J]. arXiv preprint arXiv:2005.00754, 2020. [paper](https://arxiv.org/pdf/2005.00754)
 
 Li L, Yao J, Wenliang L, et al. Grin: Generative relation and intention network for multi-agent trajectory prediction[J]. Advances in Neural Information Processing Systems, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/e3670ce0c315396e4836d7024abcf3dd-Abstract.html) 
 
