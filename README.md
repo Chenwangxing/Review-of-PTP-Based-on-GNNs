@@ -281,6 +281,7 @@ High-order graph-based methods break through the limitation of pairwise modeling
 
 - Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10948459) [code](https://github.com/Chenwangxing/PCHGCN-Master)
 
+- Chen W, Sang H, Zhao Z. HoGAT: higher-order graph attention network for pedestrian trajectory prediction[J]. Transportmetrica B: Transport Dynamics, 2025, 13(1): 2532650. [paper](https://www.tandfonline.com/doi/abs/10.1080/21680566.2025.2532650)
 
 
 ### 5.2. Hypergraph models
