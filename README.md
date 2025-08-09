@@ -8,7 +8,7 @@ GNN-based pedestrian trajectory prediction methods typically adopt an encoder-de
 
 
  ## Taxonomy of Trajectory Prediction Methods based on GNNs
- According to the differences in graph construction strategies and interaction modeling paradigms, we categorize existing methods into five types：**1. Conventional graph-based methods**；**2. Sparse graph-based methods**；**3. Multi-graph-based methods**；**4. Heterogeneous graph-based methods**；**5. High-order graph-based methods**.
+ According to the differences in graph construction strategies and interaction modeling paradigms, we categorize existing methods into five types：**1. Conventional graph-based methods**；**2. Sparse graph-based methods**；**3. Multi-graph-based methods**；**4. Heterogeneous graph-based methods**；**5. Higher-order graph-based methods**.
  
 <img width="1500" alt="Figure 3" src="https://github.com/user-attachments/assets/60a1aa74-b318-4082-9caa-5fa6380939eb" />
 
@@ -263,14 +263,14 @@ Heterogeneous graph-based methods incorporate multiple types of nodes (pedestria
 - Wang X, Yang X, Zhou D. Goal-CurveNet: A pedestrian trajectory prediction network using heterogeneous graph attention goal prediction and curve fitting[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108323. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624004810)
 
 
-## 5. High-order graph-based methods
-High-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and high-order interactions. High-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of high-order relationships, we further divide high-order graph-based methods into **high-order graph models** and **hypergraph models**.
+## 5. Higher-order graph-based methods
+Higher-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and higher-order interactions. Higher-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of higher-order relationships, we further divide higher-order graph-based methods into **higher-order graph models** and **hypergraph models**.
 
 <img width="1000" alt="Figure 11" src="https://github.com/user-attachments/assets/340b8e28-c8fa-444c-bc20-d5552988a313" />
 
 
 
-### 5.1. High-order graph models
+### 5.1. Higher-order graph models
 - Bae I, Jeon H G. Disentangled multi-relational graph convolutional network for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16174)
  
 - Fang Y, Jin Z, Cui Z, et al. Modeling human–human interaction with attention-based high-order GCN for trajectory prediction[J]. The Visual Computer, 2022. [paper](https://link.springer.com/article/10.1007/s00371-021-02109-2)
