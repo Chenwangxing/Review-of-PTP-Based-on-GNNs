@@ -342,7 +342,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 
 5. Average Maximum Eigenvalue (AMV) [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_27)
    
-<img width="1000" alt="微信图片_20250601155628" src="https://github.com/user-attachments/assets/7498835a-6804-4e85-bd26-430738724ebe" />
+<img width="1000" height="450" alt="1754751880904" src="https://github.com/user-attachments/assets/53d81fb1-a7ab-4947-9a8a-69c05a7eb6db" />
 
 
 
