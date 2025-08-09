@@ -198,6 +198,8 @@ Yu C, Wang M. Pedestrian Trajectory Prediction Based on Multi-head Self-attentio
 
 Chen W, Sang H, Wang J, et al. IGGCN: Individual-guided graph convolution network for pedestrian trajectory prediction[J]. Digital Signal Processing, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S105120042400486X)
 
+Chen W, Sang H, Zhao Z. CWGCN: Cascaded Wavelet Graph Convolution Network for pedestrian trajectory prediction[J]. Computers and Electrical Engineering, 2025, 127: 110609. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004579062500552X) [code](https://github.com/Chenwangxing/CWGCN)
+
 
  ### 3.3. Cross-spatial-temporal graph models
 Wu Y, Wang L, Zhou S, et al. Multi-stream representation learning for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389) [code](https://github.com/YuxuanIAIR/MSRL-master)
