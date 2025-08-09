@@ -327,7 +327,7 @@ To comprehensively evaluate the accuracy, diversity, and distribution quality of
 
 9. JAAD [dataset](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
    
-<img width="1000" alt="微信图片_20250601155547" src="https://github.com/user-attachments/assets/5cd07fdc-58f6-419b-8219-f7f9748a2f62" />
+<img width="1000" height="500" alt="1754751803101" src="https://github.com/user-attachments/assets/f30d6051-f7a6-4ddb-9081-ae333d936d54" />
 
 
 
