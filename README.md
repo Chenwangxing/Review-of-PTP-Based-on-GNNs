@@ -107,6 +107,9 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 
 - Mi J, Zhang X, Zeng H, et al. DERGCN: Dynamic-Evolving graph convolutional networks for human trajectory prediction[J]. Neurocomputing, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223012407)
 
+- Zhang Q, Zhang X, Ye Z, et al. MSTT: A Multi-Spatio-Temporal Graph Attention Model for Pedestrian Trajectory Prediction[J]. Sensors, 2025, 25(15): 4850. [paper](https://www.mdpi.com/1424-8220/25/15/4850)
+
+
 ## 2. Sparse Graph-based Methods
 Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into **uninterpretable sparse graph models** and **interpretable sparse graph models** based on whether the interaction filtering mechanism incorporates interpretable priors.
 
