@@ -207,6 +207,8 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
   
 - Lui G, Pan C, Zhang X, et al. STAFGCN: a spatial-temporal attention-based fusion graph convolution network for pedestrian trajectory prediction[J]. Bulletin of the Polish Academy of Sciences Technical Sciences, 2025: e151960-e151960. [paper](https://journals.pan.pl/Content/132812/PDF/BPASTS_2025_73_1_4525.pdf)
 
+- Zhang W, Li M, Chen H, et al. DualStream-TGCN: A Parallel Transformer-GCN Framework for Pedestrian Trajectory Prediction in Dynamic Environments[J]. Signal, Image and Video Processing, 2025, 19(11): 899. [paper](https://link.springer.com/article/10.1007/s11760-025-04480-2)
+
 - Chen W, Sang H, Zhao Z. CWGCN: Cascaded Wavelet Graph Convolution Network for pedestrian trajectory prediction[J]. Computers and Electrical Engineering, 2025, 127: 110609. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004579062500552X) [code](https://github.com/Chenwangxing/CWGCN)
 
 
