@@ -172,6 +172,8 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 - Sheng Z, Huang Z, Chen S. Ego‐planning‐guided multi‐graph convolutional network for heterogeneous agent trajectory prediction[J]. Computer‐Aided Civil and Infrastructure Engineering, 2024. [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13301)
 
 - Lin X, Zhang Y, Wang S, et al. Multi-scale wavelet transform enhanced graph neural network for pedestrian trajectory prediction[J]. Physica A: Statistical Mechanics and its Applications, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037843712400829X)
+  
+- Li X, Liang Y, Yang Z, et al. Pedestrian Trajectory Prediction Based on Dual Social Graph Attention Network[J]. Applied Sciences, 2025, 15(8): 4285. [paper](https://www.mdpi.com/2076-3417/15/8/4285)
 
 - Su Z, Huang G, Zhou Z, et al. Improving generative trajectory prediction via collision-free modeling and goal scene reconstruction[J]. Pattern Recognition Letters, 2025, 188: 117-124. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865524003593)
 
@@ -202,6 +204,8 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 - Yu C, Wang M. Pedestrian Trajectory Prediction Based on Multi-head Self-attention and Sparse Graph Convolution[C]//2024 4th International Conference on Neural Networks, Information and Communication (NNICE). IEEE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10498338)
 
 - Chen W, Sang H, Wang J, et al. IGGCN: Individual-guided graph convolution network for pedestrian trajectory prediction[J]. Digital Signal Processing, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S105120042400486X)
+  
+- Lui G, Pan C, Zhang X, et al. STAFGCN: a spatial-temporal attention-based fusion graph convolution network for pedestrian trajectory prediction[J]. Bulletin of the Polish Academy of Sciences Technical Sciences, 2025: e151960-e151960. [paper](https://journals.pan.pl/Content/132812/PDF/BPASTS_2025_73_1_4525.pdf)
 
 - Chen W, Sang H, Zhao Z. CWGCN: Cascaded Wavelet Graph Convolution Network for pedestrian trajectory prediction[J]. Computers and Electrical Engineering, 2025, 127: 110609. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004579062500552X) [code](https://github.com/Chenwangxing/CWGCN)
 
