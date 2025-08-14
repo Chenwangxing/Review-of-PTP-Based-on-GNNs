@@ -23,7 +23,10 @@ In addition, we present the timeline of various GNN-based trajectory prediction 
  ## 1. Conventional Graph-based Methods
 Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **static graph models**, **frame-wise graph models**, and **spatio-temporal graph models**.
 
- <img width="1000" alt="Figure 4" src="https://github.com/user-attachments/assets/53536bbb-15d2-4b36-ada4-d8dcb9a95408" />
+
+![Figure 4](https://github.com/user-attachments/assets/2bedcb61-c7d6-4454-96ae-53a255d69d41)
+
+
 
 
  ### 1.1. Static graph models
@@ -277,7 +280,7 @@ Heterogeneous graph-based methods incorporate multiple types of nodes (pedestria
 ## 5. Higher-order graph-based methods
 Higher-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and higher-order interactions. Higher-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of higher-order relationships, we further divide higher-order graph-based methods into **higher-order graph models** and **hypergraph models**.
 
-<img width="1000" alt="Figure 11" src="https://github.com/user-attachments/assets/340b8e28-c8fa-444c-bc20-d5552988a313" />
+<img width="1000" height="333" alt="Figure 11" src="https://github.com/user-attachments/assets/ddc2d333-3512-44bc-a848-8c4d9e8b62d0" />
 
 
 
