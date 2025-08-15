@@ -234,7 +234,7 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 ## 4. Heterogeneous graph-based methods
 Heterogeneous graph-based methods incorporate multiple types of nodes (pedestrians, obstacles, vehicles) and edges (representing different kinds of relationships) into a unified heterogeneous graph. These methods support multimodal information fusion and heterogeneous interaction modeling. We further divide these methods into three categories based on the source of heterogeneity: **scene heterogeneous graph models**, **multi-agent type heterogeneous graph models**, and **comprehensive heterogeneous graph models**.
 
-<img width="1000" alt="Figure 10" src="https://github.com/user-attachments/assets/50c91354-c6b9-479d-bf71-e51c7c572a04" />
+![Figure 10 - 副本](https://github.com/user-attachments/assets/8d03b9b3-9e28-47e5-ae95-d01335d5e580)
 
 
 ### 4.1. Scene heterogeneous graph models
