@@ -316,6 +316,8 @@ Higher-order graph-based methods break through the limitation of pairwise modeli
 - Lin X, Zhang Y, Wang S, et al. OST-HGCN: Optimized Spatial–Temporal Hypergraph Convolution Network for Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10857960)
 
 - Hu Y, Chen X, Zhou Y, et al. A hypergraph-based dual-path multi-agent trajectory prediction model with topology inferring[J]. Engineering Applications of Artificial Intelligence, 2025, 152: 110799. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007997)
+  
+- Chib P S, Singh P. Multi-Scale Hypergraphs for Trajectory Imputation and Prediction in Real-World Scenarios[J]. Expert Systems with Applications, 2025: 129156. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425027733)
 
 
 
