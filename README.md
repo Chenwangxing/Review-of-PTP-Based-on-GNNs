@@ -38,6 +38,8 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 
 - Liu C, Chen Y, Liu M, et al. AVGCN: Trajectory prediction using graph convolutional networks guided by human attention[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9560908)
 
+- Chen J, Jia C, Xie W, et al. MHTraj: A Multi-Domain Hybrid Graph Neural Network With Causal-Spatial Modeling for Multi-Agent Trajectory Prediction[J]. IEEE Transactions on Network Science and Engineering, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11134837)
+
  ### 1.2. Frame-wise graph models
 - Huang Y, Bi H, Li Z, et al. Stgat: Modeling spatial-temporal interactions for human trajectory prediction[C]//Proceedings of the IEEE/CVF international conference on computer vision. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf) [code](https://github.com/huang-xx/STGAT)
 
