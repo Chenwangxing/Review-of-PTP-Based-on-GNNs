@@ -8,19 +8,24 @@ GNN-based pedestrian trajectory prediction methods typically adopt an encoder-de
 
 
 
-
- ## Taxonomy of Trajectory Prediction Methods based on GNNs
- According to the differences in graph construction strategies and interaction modeling paradigms, we categorize existing methods into five types：**1. [Conventional graph-based methods](url)**；**2. Sparse graph-based methods**；**3. Multi-graph-based methods**；**4. Heterogeneous graph-based methods**；**5. Higher-order graph-based methods**.
+## Taxonomy of Trajectory Prediction Methods based on GNNs
+ According to the differences in graph construction strategies and interaction modeling paradigms, we categorize existing methods into five types：**1. Conventional graph-based methods**；**2. Sparse graph-based methods**；**3. Multi-graph-based methods**；**4. Heterogeneous graph-based methods**；**5. Higher-order graph-based methods**.
 
 <img width="1500" height="1357" alt="Figure 3" src="https://github.com/user-attachments/assets/46f4828a-b708-44ac-9308-b11869d714b1" />
 
+## Table of contents
+- [1. Conventional graph-based methods](#1-conventional-graph)
+- [2. Sparse graph-based methods](#2-sparse-graph)
+- [3. Multi-graph-based methods](#3-multi-graph)
+- [4. Heterogeneous graph-based methods](#4-heterogeneous-graph)
+- [5. Higher-order graph-based methods](#5-higher-order-graph)
  
 In addition, we present the timeline of various GNN-based trajectory prediction methods along with some representative methods.
 
 <img width="1600" height="640" alt="1发展时间图" src="https://github.com/user-attachments/assets/aaf81d10-9889-4481-9e41-9f29aac018d9" />
 
 
- [## 1. Conventional Graph-based Methods](url)
+ ## 1. Conventional Graph-based Methods {#1-conventional-graph}
 Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **static graph models**, **frame-wise graph models**, and **spatio-temporal graph models**.
 
 
@@ -115,7 +120,7 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 - Zhang Q, Zhang X, Ye Z, et al. MSTT: A Multi-Spatio-Temporal Graph Attention Model for Pedestrian Trajectory Prediction[J]. Sensors, 2025, 25(15): 4850. [paper](https://www.mdpi.com/1424-8220/25/15/4850)
 
 
-## 2. Sparse Graph-based Methods
+## 2. Sparse Graph-based Methods (#2-sparse-graph)
 Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into **uninterpretable sparse graph models** and **interpretable sparse graph models** based on whether the interaction filtering mechanism incorporates interpretable priors.
 
 <img width="1000" height="333" alt="Figure 6 - 1" src="https://github.com/user-attachments/assets/c2b40497-cde1-42b8-82d6-bc046bf98573" />
