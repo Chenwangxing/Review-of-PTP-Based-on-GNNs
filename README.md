@@ -13,19 +13,20 @@ GNN-based pedestrian trajectory prediction methods typically adopt an encoder-de
 
 <img width="1500" height="1357" alt="Figure 3" src="https://github.com/user-attachments/assets/46f4828a-b708-44ac-9308-b11869d714b1" />
 
+In addition, we present the timeline of various GNN-based trajectory prediction methods along with some representative methods.
+
+<img width="1600" height="640" alt="1发展时间图" src="https://github.com/user-attachments/assets/aaf81d10-9889-4481-9e41-9f29aac018d9" />
+
+
 ## Table of contents
 - [1. Conventional graph-based methods](#1-conventional-graph)
 - [2. Sparse graph-based methods](#2-sparse-graph)
 - [3. Multi-graph-based methods](#3-multi-graph)
 - [4. Heterogeneous graph-based methods](#4-heterogeneous-graph)
 - [5. Higher-order graph-based methods](#5-higher-order-graph)
- 
-In addition, we present the timeline of various GNN-based trajectory prediction methods along with some representative methods.
-
-<img width="1600" height="640" alt="1发展时间图" src="https://github.com/user-attachments/assets/aaf81d10-9889-4481-9e41-9f29aac018d9" />
 
 
- ## 1. Conventional Graph-based Methods {#1-conventional-graph}
+## 1. Conventional Graph-based Methods {#1-conventional-graph}
 Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **static graph models**, **frame-wise graph models**, and **spatio-temporal graph models**.
 
 
@@ -34,7 +35,7 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 
 
 
- ### 1.1. Static graph models
+### 1.1. Static graph models
 - Kosaraju V, Sadeghian A, Martín-Martín R, et al. Social-bigat: Multimodal trajectory forecasting using bicycle-gan and graph attention networks[J]. Advances in neural information processing systems. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)
 
 - Chen Y, Liu C, Shi B, et al. Comogcn: Coherent motion aware trajectory prediction with graph representation[J]. arXiv preprint arXiv:2005.00754, 2020. [paper](https://arxiv.org/pdf/2005.00754)
@@ -45,7 +46,7 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 
 - Chen J, Jia C, Xie W, et al. MHTraj: A Multi-Domain Hybrid Graph Neural Network With Causal-Spatial Modeling for Multi-Agent Trajectory Prediction[J]. IEEE Transactions on Network Science and Engineering, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11134837)
 
- ### 1.2. Frame-wise graph models
+### 1.2. Frame-wise graph models
 - Huang Y, Bi H, Li Z, et al. Stgat: Modeling spatial-temporal interactions for human trajectory prediction[C]//Proceedings of the IEEE/CVF international conference on computer vision. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf) [code](https://github.com/huang-xx/STGAT)
 
 - Haddad S, Lam S K. Self-growing spatial graph networks for pedestrian trajectory prediction[C]//Proceedings of the IEEE/CVF Winter conference on applications of computer vision. 2020. [paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Haddad_Self-Growing_Spatial_Graph_Networks_for_Pedestrian_Trajectory_Prediction_WACV_2020_paper.pdf) 
@@ -150,7 +151,7 @@ Sparse graph-based methods dynamically select the most relevant neighbors for ea
 - Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution network for pedestrian trajectory prediction[J]. Transportmetrica B: Transport Dynamics, 2024. [paper](https://www.tandfonline.com/doi/abs/10.1080/21680566.2024.2389896) [code](https://github.com/Chenwangxing/IMGCN_master)
 
 
-## 3. Multi-Graph-based Methods
+## 3. Multi-Graph-based Methods (#3-multi-graph)
 Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into **multi-feature graph models**, **temporal graph models**, **cross-spatial-temporal graph models**, and **scene graph models**.
 
 <img width="1000" alt="Figure 7" src="https://github.com/user-attachments/assets/797f2d36-8ac9-4173-b6aa-afe68b55d975" />
@@ -238,7 +239,7 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 - Zhu P, Zhao S, Deng H, et al. Attentive Radiate Graph for Pedestrian Trajectory Prediction in Disconnected Manifolds[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10962257)
 
 
-## 4. Heterogeneous graph-based methods
+## 4. Heterogeneous graph-based methods (#4-heterogeneous-graph)
 Heterogeneous graph-based methods incorporate multiple types of nodes (pedestrians, obstacles, vehicles) and edges (representing different kinds of relationships) into a unified heterogeneous graph. These methods support multimodal information fusion and heterogeneous interaction modeling. We further divide these methods into three categories based on the source of heterogeneity: **scene heterogeneous graph models**, **multi-agent type heterogeneous graph models**, and **comprehensive heterogeneous graph models**.
 
 ![Figure 10 - 副本](https://github.com/user-attachments/assets/8d03b9b3-9e28-47e5-ae95-d01335d5e580)
@@ -284,7 +285,7 @@ Heterogeneous graph-based methods incorporate multiple types of nodes (pedestria
 - Wang X, Yang X, Zhou D. Goal-CurveNet: A pedestrian trajectory prediction network using heterogeneous graph attention goal prediction and curve fitting[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108323. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624004810)
 
 
-## 5. Higher-order graph-based methods
+## 5. Higher-order graph-based methods (#5-higher-order-graph)
 Higher-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and higher-order interactions. Higher-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of higher-order relationships, we further divide higher-order graph-based methods into **higher-order graph models** and **hypergraph models**.
 
 <img width="1000" height="333" alt="Figure 11" src="https://github.com/user-attachments/assets/ddc2d333-3512-44bc-a848-8c4d9e8b62d0" />
