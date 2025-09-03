@@ -1,4 +1,4 @@
-
+markdown
 # Pedestrian trajectory prediction method based on graph neural networks.
 
 ## The architecture of the pedestrian trajectory prediction method based on GNNs.
@@ -17,7 +17,7 @@ In addition, we present the timeline of various GNN-based trajectory prediction 
 
 <img width="1600" height="640" alt="1发展时间图" src="https://github.com/user-attachments/assets/aaf81d10-9889-4481-9e41-9f29aac018d9" />
 
-markdown
+
 
 ## Table of contents
 - [1. Conventional graph-based methods](#1-conventional-graph)
