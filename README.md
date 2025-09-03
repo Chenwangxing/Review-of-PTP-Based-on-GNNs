@@ -152,7 +152,7 @@ Sparse graph-based methods dynamically select the most relevant neighbors for ea
 - Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution network for pedestrian trajectory prediction[J]. Transportmetrica B: Transport Dynamics, 2024. [paper](https://www.tandfonline.com/doi/abs/10.1080/21680566.2024.2389896) [code](https://github.com/Chenwangxing/IMGCN_master)
 
 
-## 3. Multi-Graph-based Methods (#3-multi-graph)
+## 3. Multi-graph-based Methods {#3-multi-graph}
 Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into **multi-feature graph models**, **temporal graph models**, **cross-spatial-temporal graph models**, and **scene graph models**.
 
 <img width="1000" alt="Figure 7" src="https://github.com/user-attachments/assets/797f2d36-8ac9-4173-b6aa-afe68b55d975" />
@@ -240,7 +240,7 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 - Zhu P, Zhao S, Deng H, et al. Attentive Radiate Graph for Pedestrian Trajectory Prediction in Disconnected Manifolds[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10962257)
 
 
-## 4. Heterogeneous graph-based methods (#4-heterogeneous-graph)
+## 4. Heterogeneous Graph-based Methods {#4-heterogeneous-graph}
 Heterogeneous graph-based methods incorporate multiple types of nodes (pedestrians, obstacles, vehicles) and edges (representing different kinds of relationships) into a unified heterogeneous graph. These methods support multimodal information fusion and heterogeneous interaction modeling. We further divide these methods into three categories based on the source of heterogeneity: **scene heterogeneous graph models**, **multi-agent type heterogeneous graph models**, and **comprehensive heterogeneous graph models**.
 
 ![Figure 10 - 副本](https://github.com/user-attachments/assets/8d03b9b3-9e28-47e5-ae95-d01335d5e580)
@@ -286,7 +286,7 @@ Heterogeneous graph-based methods incorporate multiple types of nodes (pedestria
 - Wang X, Yang X, Zhou D. Goal-CurveNet: A pedestrian trajectory prediction network using heterogeneous graph attention goal prediction and curve fitting[J]. Engineering Applications of Artificial Intelligence, 2024, 133: 108323. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624004810)
 
 
-## 5. Higher-order graph-based methods (#5-higher-order-graph)
+## 5. Higher-order Graph-based Methods {#5-higher-order-graph}
 Higher-order graph-based methods break through the limitation of pairwise modeling in conventional GNNs to explicitly capture group behavior and higher-order interactions. Higher-order graph-based methods enhance the model’s ability to represent complex social dynamics in highly dense and interactive scenarios. According to the representation of higher-order relationships, we further divide higher-order graph-based methods into **higher-order graph models** and **hypergraph models**.
 
 <img width="1000" height="333" alt="Figure 11" src="https://github.com/user-attachments/assets/ddc2d333-3512-44bc-a848-8c4d9e8b62d0" />
