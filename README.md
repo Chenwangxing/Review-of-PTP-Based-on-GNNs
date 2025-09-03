@@ -18,7 +18,7 @@ In addition, we present the timeline of various GNN-based trajectory prediction 
 
 
 ## 1. Conventional Graph-based Methods
-Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **[1.1. Static graph models](11-static-graph-models)**, **[1.2. Frame-wise graph models](12-frame-wise-graph-models)**, and **[1.3. Spatiotemporal graph models](13-spatiotemporal-graph-models)**.
+Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **[1.1. Static graph models](1.1-static-graph-models)**, **[1.2. Frame-wise graph models](1.2-frame-wise-graph-models)**, and **[1.3. Spatiotemporal graph models](1.3-spatiotemporal-graph-models)**.
 
 
 ![Figure 4](https://github.com/user-attachments/assets/2bedcb61-c7d6-4454-96ae-53a255d69d41)
