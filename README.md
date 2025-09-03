@@ -122,7 +122,7 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 - Zhang Q, Zhang X, Ye Z, et al. MSTT: A Multi-Spatio-Temporal Graph Attention Model for Pedestrian Trajectory Prediction[J]. Sensors, 2025, 25(15): 4850. [paper](https://www.mdpi.com/1424-8220/25/15/4850)
 
 
-## 2. Sparse Graph-based Methods (#2-sparse-graph)
+## 2. Sparse Graph-based Methods {#2-sparse-graph}
 Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into **uninterpretable sparse graph models** and **interpretable sparse graph models** based on whether the interaction filtering mechanism incorporates interpretable priors.
 
 <img width="1000" height="333" alt="Figure 6 - 1" src="https://github.com/user-attachments/assets/c2b40497-cde1-42b8-82d6-bc046bf98573" />
