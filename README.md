@@ -1,4 +1,4 @@
-markdown
+
 # Pedestrian trajectory prediction method based on graph neural networks.
 
 ## The architecture of the pedestrian trajectory prediction method based on GNNs.
