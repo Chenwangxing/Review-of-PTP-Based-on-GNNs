@@ -18,7 +18,7 @@ In addition, we present the timeline of various GNN-based trajectory prediction 
 
 
 ## 1. Conventional Graph-based Methods
-Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **[1.1. Static graph models](#11-static-graph-models)**, **[1.2. Frame-wise graph models](#12-frame-wise-graph-models)**, and **[1.3. Spatiotemporal graph models](#13-spatiotemporal-graph-models)**.
+Conventional graph-based methods usually represent pedestrians as nodes and social relationships between pedestrians as edges, thus forming a dense graph structure. Subsequently, feature aggregation is then performed through the graph convolutional network (GCN) or graph attention network (GAT) to capture the social relationships among pedestrians, thereby improving the accuracy of trajectory prediction. According to the graph construction strategy, we further divide conventional graph-based methods into **[Static graph models](#11-static-graph-models)**, **[Frame-wise graph models](#12-frame-wise-graph-models)**, and **[Spatiotemporal graph models](#13-spatiotemporal-graph-models)**.
 
 
 ![Figure 4](https://github.com/user-attachments/assets/2bedcb61-c7d6-4454-96ae-53a255d69d41)
@@ -114,10 +114,13 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 - Zhang Q, Zhang X, Ye Z, et al. MSTT: A Multi-Spatio-Temporal Graph Attention Model for Pedestrian Trajectory Prediction[J]. Sensors, 2025, 25(15): 4850. [paper](https://www.mdpi.com/1424-8220/25/15/4850)
 
 
+
+
 ## 2 Sparse Graph-based Methods
-Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into **uninterpretable sparse graph models** and **interpretable sparse graph models** based on whether the interaction filtering mechanism incorporates interpretable priors.
+Sparse graph-based methods dynamically select the most relevant neighbors for each pedestrian to construct a sparse graph structure. By reducing redundant connections, these methods mitigate interference from irrelevant interactions and enhance model efficiency and prediction performance. We divide sparse graph-based methods into **[Uninterpretable sparse graph models](#21-uninterpretable-sparse-graph-models)** and **[Interpretable sparse graph models](#22-interpretable-sparse-graph-models)** based on whether the interaction filtering mechanism incorporates interpretable priors.
 
 <img width="1000" height="333" alt="Figure 6 - 1" src="https://github.com/user-attachments/assets/c2b40497-cde1-42b8-82d6-bc046bf98573" />
+
 
 
 ### 2.1. Uninterpretable sparse graph models
@@ -126,6 +129,7 @@ Sparse graph-based methods dynamically select the most relevant neighbors for ea
 - Zhou Y, Wu H, Cheng H, et al. Social graph convolutional LSTM for pedestrian trajectory prediction[J]. IET Intelligent Transport Systems, 2021. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12033)
 
 - Wu Y, Wang L, Zhou S, et al. Multi-stream representation learning for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389) [code](https://github.com/YuxuanIAIR/MSRL-master)
+
 
 
 ### 2.2. Interpretable sparse graph models
@@ -144,8 +148,9 @@ Sparse graph-based methods dynamically select the most relevant neighbors for ea
 - Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution network for pedestrian trajectory prediction[J]. Transportmetrica B: Transport Dynamics, 2024. [paper](https://www.tandfonline.com/doi/abs/10.1080/21680566.2024.2389896) [code](https://github.com/Chenwangxing/IMGCN_master)
 
 
+
 ## 3. Multi-graph-based Methods
-Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into **multi-feature graph models**, **temporal graph models**, **cross-spatial-temporal graph models**, and **scene graph models**.
+Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into **[Multi-feature graph models](#31-multi-feature-graph-models)**, **[Temporal graph models](#32-temporal-graph-models)**, **[Cross-spatial-temporal graph models](#33-cross-spatial-temporal-graph-models)**, and **[Scene graph models](#34-scene-graph-models)**.
 
 <img width="1000" alt="Figure 7" src="https://github.com/user-attachments/assets/797f2d36-8ac9-4173-b6aa-afe68b55d975" />
 
@@ -216,12 +221,14 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 - Chen W, Sang H, Zhao Z. CWGCN: Cascaded Wavelet Graph Convolution Network for pedestrian trajectory prediction[J]. Computers and Electrical Engineering, 2025, 127: 110609. [paper](https://www.sciencedirect.com/science/article/abs/pii/S004579062500552X) [code](https://github.com/Chenwangxing/CWGCN)
 
 
+
 ### 3.3. Cross-spatial-temporal graph models
 - Wu Y, Wang L, Zhou S, et al. Multi-stream representation learning for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389) [code](https://github.com/YuxuanIAIR/MSRL-master)
 
 - Chen W, Sang H, Wang J, et al. DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10843981) [code](https://github.com/Chenwangxing/DSTIGCN_Master)
 
 - Li R, Qiao T, Katsigiannis S, et al. Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10876405)
+
 
 
 ### 3.4. Scene graph models
