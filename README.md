@@ -22,9 +22,9 @@ In addition, we present the timeline of various GNN-based trajectory prediction 
 ## Table of contents
 - [1 Conventional graph-based methods](#1-conventional-graph-based-methods)
 - [2 Sparse graph-based methods](#2-sparse-graph-based-methods)
-- [3. Multi-graph-based methods](#3-multi-graph)
-- [4. Heterogeneous graph-based methods](#4-heterogeneous-graph)
-- [5. Higher-order graph-based methods](#5-higher-order-graph)
+- [3. Multi-graph-based methods](#3-multi-graph-based-methods)
+- [4. Heterogeneous graph-based methods](#4-heterogeneous-graph-based-methods)
+- [5. Higher-order graph-based methods](#5-Higher-order-graph-based-methods)
 
 
 ## 1. Conventional Graph-based Methods
@@ -152,7 +152,7 @@ Sparse graph-based methods dynamically select the most relevant neighbors for ea
 - Chen W, Sang H, Wang J, et al. IMGCN: interpretable masked graph convolution network for pedestrian trajectory prediction[J]. Transportmetrica B: Transport Dynamics, 2024. [paper](https://www.tandfonline.com/doi/abs/10.1080/21680566.2024.2389896) [code](https://github.com/Chenwangxing/IMGCN_master)
 
 
-## 3. Multi-graph-based Methods {#3-multi-graph}
+## 3. Multi-graph-based Methods
 Multi-graph-based methods construct multiple graph structures to simultaneously model different interaction relationships, such as social relationships, temporal relationships, or scene semantic constraints, and achieve joint modeling through a fusion mechanism. We classify these methods based on the modeling emphasis into **multi-feature graph models**, **temporal graph models**, **cross-spatial-temporal graph models**, and **scene graph models**.
 
 <img width="1000" alt="Figure 7" src="https://github.com/user-attachments/assets/797f2d36-8ac9-4173-b6aa-afe68b55d975" />
