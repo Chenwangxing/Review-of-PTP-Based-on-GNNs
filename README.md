@@ -186,7 +186,9 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 
 - Su Z, Huang G, Zhou Z, et al. Improving generative trajectory prediction via collision-free modeling and goal scene reconstruction[J]. Pattern Recognition Letters, 2025, 188: 117-124. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865524003593)
 
-- hou D, Gao Y, Li H, et al. Group commonality graph: Multimodal pedestrian trajectory prediction via deep group features[J]. Pattern Recognition Letters, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001114)
+- Zhou D, Gao Y, Li H, et al. Group commonality graph: Multimodal pedestrian trajectory prediction via deep group features[J]. Pattern Recognition Letters, 2025, 192: 36-42. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001114)
+
+- Yang H, Chen Y, Cai J, et al. Cross-Domain Pedestrian Trajectory Prediction via Behavioral Pattern-Aware Multi-Instance GCN[J]. Knowledge-Based Systems, 2025: 114266. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013073)
 
 
 ### 3.2. Temporal graph models
