@@ -260,6 +260,9 @@ Heterogeneous graph-based methods incorporate multiple types of nodes (pedestria
 
 - Yang X, Bingxian L, Xiangcheng W. SGAMTE-Net: A pedestrian trajectory prediction network based on spatiotemporal graph attention and multimodal trajectory endpoints[J]. Applied Intelligence, 2023, 53(24): 31165-31180. [paper](https://link.springer.com/article/10.1007/s10489-023-05132-z)
 
+- Gu X, Li C, Yang J, et al. Pedestrian Trajectory Prediction via Window Attention and Spatial Graph Interaction Network[J]. IEEE Access, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11015790/)
+
+
 
 
 ### 4.2. Multi-type agent heterogeneous graph models
