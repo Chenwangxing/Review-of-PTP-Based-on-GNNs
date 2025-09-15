@@ -350,7 +350,7 @@ Higher-order graph-based methods break through the limitation of pairwise modeli
 
 
 ### Diffusion-based trajectory prediction
-- Bae I, Lee J, Jeon H G. Can language beat numerical regression? language-based multimodal trajectory prediction[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 753-766. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf) [code](https://github.com/gutianpei/MID)
+- Gu T, Chen G, Li J, et al. Stochastic trajectory prediction via motion indeterminacy diffusion[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022: 17113-17122. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf) [code](https://github.com/gutianpei/MID)
 
 - Mao W, Xu C, Zhu Q, et al. Leapfrog diffusion model for stochastic trajectory prediction[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023: 5517-5526. [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf) [code](https://github.com/MediaBrain-SJTU/LED)
 
