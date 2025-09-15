@@ -341,6 +341,32 @@ Higher-order graph-based methods break through the limitation of pairwise modeli
 
 
 
+## Emerging Trends
+
+### Large language and vision-language models (LLMs/VLMs)
+- Bae I, Lee J, Jeon H G. Can language beat numerical regression? language-based multimodal trajectory prediction[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 753-766. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_Can_Language_Beat_Numerical_Regression_Language-Based_Multimodal_Trajectory_Prediction_CVPR_2024_paper.pdf) [code](https://github.com/inhwanbae/LMTrajectory)
+
+- Bae I, Lee J, Jeon H G. Social Reasoning-Aware Trajectory Prediction via Multimodal Language Model[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11045841)
+
+
+### Diffusion-based trajectory prediction
+- Bae I, Lee J, Jeon H G. Can language beat numerical regression? language-based multimodal trajectory prediction[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 753-766. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf) [code](https://github.com/gutianpei/MID)
+
+- Mao W, Xu C, Zhu Q, et al. Leapfrog diffusion model for stochastic trajectory prediction[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023: 5517-5526. [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf) [code](https://github.com/MediaBrain-SJTU/LED)
+
+- Chen X, Zeng L, Gao M, et al. DiffWT: Diffusion-Based Pedestrian Trajectory Prediction With Time-Frequency Wavelet Transform[J]. IEEE Internet of Things Journal, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10742074)
+
+- Liu C, He S, Liu H, et al. Intention-aware denoising diffusion model for trajectory prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10946226)
+
+
+### Self-supervised pretraining techniques
+- Tsao L W, Wang Y K, Lin H S, et al. Social-ssl: Self-supervised cross-sequence representation learning based on transformers for multi-agent trajectory prediction[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022: 234-250. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_14) [code](https://github.com/Sigta678/Social-SSL)
+
+- Yang S, Xiao X. Pedestrian trajectory prediction model based on self-supervised spatiotemporal graph network[J]. Intelligent Systems with Applications, 2025: 200533. [paper](https://www.sciencedirect.com/science/article/pii/S2667305325000596) 
+
+- Bharilya V, Arora A, Kumar N. Self-Supervised Transformer for Trajectory Prediction Using Noise Imputed Past Trajectory[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10964781) 
+
+
 ## Public Datasets
 To comprehensively evaluate the accuracy, diversity, and distribution quality of predicted trajectories, researchers have proposed a variety of evaluation metrics.
 1. UCY [dataset](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
