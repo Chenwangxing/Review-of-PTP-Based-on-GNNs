@@ -362,6 +362,9 @@ Higher-order graph-based methods break through the limitation of pairwise modeli
 
 - Yao J, Lu Z, Mao Y, et al. Diffusion With Reinforcement Learning for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11192099)
 
+- Han P, Zhu M, Tian W, et al. Probabilistic and Interaction-Aware Trajectory Prediction Using Score-Based Diffusion Models[J]. IEEE Transactions on Industrial Informatics, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11192085)
+
+
 ### 3. Self-supervised pretraining techniques
 - Tsao L W, Wang Y K, Lin H S, et al. Social-ssl: Self-supervised cross-sequence representation learning based on transformers for multi-agent trajectory prediction[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022: 234-250. [paper](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_14) [code](https://github.com/Sigta678/Social-SSL)
 
