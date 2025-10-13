@@ -189,6 +189,8 @@ Multi-graph-based methods construct multiple graph structures to simultaneously 
 - Zhou D, Gao Y, Li H, et al. Group commonality graph: Multimodal pedestrian trajectory prediction via deep group features[J]. Pattern Recognition Letters, 2025, 192: 36-42. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001114)
 
 - Yang H, Chen Y, Cai J, et al. Cross-Domain Pedestrian Trajectory Prediction via Behavioral Pattern-Aware Multi-Instance GCN[J]. Knowledge-Based Systems, 2025: 114266. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013073)
+  
+- Wang B, Sun C, Leng J, et al. HSIGCN: Hierarchical Spatial Interaction Graph Convolutional Network Considering Group Behavior for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11195104)
 
 
 ### 3.2. Temporal graph models
