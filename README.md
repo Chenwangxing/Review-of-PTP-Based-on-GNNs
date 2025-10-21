@@ -283,6 +283,8 @@ Heterogeneous graph-based methods incorporate multiple types of nodes (pedestria
 - Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-modal future interaction for multi-agent trajectory prediction[J]. Engineering Applications of Artificial Intelligence, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001253) [code](https://github.com/zhou00NJUST/HHT-CFI)
 
 - Li R, Katsigiannis S, Kim T K, et al. BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction[J]. IEEE Transactions on Neural Networks and Learning Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10937142) [code](https://github.com/Carrotsniper/BP-SGCN)
+  
+- Gao Y, Wu Y. Pedestrian trajectory prediction method based on social force-dynamic risk field coupled graph attention network[J]. Physica A: Statistical Mechanics and its Applications, 2025: 131040. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437125006922) 
 
 - Ning N, Tian S, Li H, et al. Heterogeneous agents trajectory prediction with dynamic interaction relational reasoning[J]. Neurocomputing, 2025: 130543. [paper](https://www.sciencedirect.com/science/article/pii/S0925231225012159)
 
