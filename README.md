@@ -365,6 +365,8 @@ Higher-order graph-based methods break through the limitation of pairwise modeli
 - Yao J, Lu Z, Mao Y, et al. Diffusion With Reinforcement Learning for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11192099)
 
 - Han P, Zhu M, Tian W, et al. Probabilistic and Interaction-Aware Trajectory Prediction Using Score-Based Diffusion Models[J]. IEEE Transactions on Industrial Informatics, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/11192085)
+  
+- Ren Z, Wei P, Deng S, et al. TOTP: Transferable Online Pedestrian Trajectory Prediction with Temporal-Adaptive Mamba Latent Diffusion[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2025: 26263-26272. [paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ren_TOTP_Transferable_Online_Pedestrian_Trajectory_Prediction_with_Temporal-Adaptive_Mamba_Latent_ICCV_2025_paper.html)
 
 
 ### 3. Self-supervised pretraining techniques
