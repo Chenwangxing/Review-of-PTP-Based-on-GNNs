@@ -343,6 +343,8 @@ Higher-order graph-based methods break through the limitation of pairwise modeli
   
 - Chib P S, Singh P. Multi-Scale Hypergraphs for Trajectory Imputation and Prediction in Real-World Scenarios[J]. Expert Systems with Applications, 2025: 129156. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425027733)
 
+- Sang H, Chen W, Zhao Z. GHGNN: Group-defined hypergraph neural network for pedestrian trajectory prediction[J]. Neurocomputing, 2025: 132083. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225027559) [code](https://github.com/Chenwangxing/GHGNN-Master)
+
 
 
 ## Emerging Trends
