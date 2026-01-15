@@ -347,6 +347,8 @@ Higher-order graph-based methods break through the limitation of pairwise modeli
 
 - Sang H, Chen W, Zhao Z. GHGNN: Group-defined hypergraph neural network for pedestrian trajectory prediction[J]. Neurocomputing, 2025: 132083. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225027559) [code](https://github.com/Chenwangxing/GHGNN-Master)
 
+- Xie J, Tan B, Yu R, et al. AB-DIAM: Abrupt behavior driven interaction attention model for pedestrian trajectory prediction[J]. Neurocomputing, 2026: 132580. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225032527) 
+
 
 
 ## Emerging Trends
