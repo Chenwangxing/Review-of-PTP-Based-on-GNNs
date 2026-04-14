@@ -130,6 +130,7 @@ Sparse graph-based methods dynamically select the most relevant neighbors for ea
 
 - Wu Y, Wang L, Zhou S, et al. Multi-stream representation learning for pedestrian trajectory prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389) [code](https://github.com/YuxuanIAIR/MSRL-master)
 
+- Li R, Chang Z, Hu J, et al. ART: Adaptive Relational Transformer for Pedestrian Trajectory Prediction with Temporal-Aware Relations[C]. Institute of Electrical and Electronics Engineers, 2026. [paper](https://durham-repository.worktribe.com/output/5208574) 
 
 
 ### 2.2. Interpretable sparse graph models
