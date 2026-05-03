@@ -113,7 +113,7 @@ Conventional graph-based methods usually represent pedestrians as nodes and soci
 
 - Zhang Q, Zhang X, Ye Z, et al. MSTT: A Multi-Spatio-Temporal Graph Attention Model for Pedestrian Trajectory Prediction[J]. Sensors, 2025, 25(15): 4850. [paper](https://www.mdpi.com/1424-8220/25/15/4850)
 
-
+- Wen Y, Li Z, Xu P. Dynamic graph transformer for pedestrian potential trajectory prediction under the world perspective[J]. Neurocomputing, 2025: 132125. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225027973) [code](https://github.com/YanJieWen/W-DGTrans)
 
 
 ## 2 Sparse Graph-based Methods
